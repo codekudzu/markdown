@@ -2,7 +2,7 @@
 # Headings
 To add any heading from H1 through H6, use the below markdown syntax:
 
-> Pound (#) symbol followed by the heading title. For H1 use a pound symbol (#), for H2 use two pound symbols (##), so on and so forth.
+> Pound (#) symbol followed by the heading title. For H1 use a pound symbol (#), for H2 use two pound symbols (##), for H3 use three pound symbols (###), so on and so forth.
 
 \# Heading 1
 # Heading 1
@@ -14,16 +14,14 @@ To add any heading from H1 through H6, use the below markdown syntax:
 ### Heading 3
 
 \#### Heading 4
+#### Heading 4
 
 \##### Heading 5
+##### Heading 5
 
 \###### Heading 6
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
 ###### Heading 6
+
 
 <!-- Italics -->
 *This  text* is italic
