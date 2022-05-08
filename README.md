@@ -58,7 +58,7 @@ Enclose the text in double tilde (~~) to strikethrough the text.
 <!-- Horizontal Rule -->
 ## Horizontal Rule
 
-Use either three hyphens (---) or three underscores (___) to generate a horizontal rule.
+Use three or more hyphens (---) or underscores (___) to generate a horizontal rule.
 
 ---
 ___
@@ -81,7 +81,9 @@ Use the below syntax to create links.
 
 [Google](https://www.google.com "Google Search Engine")
 
+## Lists
 <!-- Unordered List -->
+### Unordered List
 * Item 1
 * Item 2
 * Item 3
@@ -89,6 +91,7 @@ Use the below syntax to create links.
     * Nested Item 2
 
 <!-- Ordered List -->
+### Ordered List
 1. Item 1
 1. Item 2
 1. Item 3
@@ -97,6 +100,8 @@ Use the below syntax to create links.
 `<p>This is a paragraph</p>`
 
 <!-- Images -->
+## Images
+\!\[Markdown Logo\]\(https://markdown-here.com/img/icon256.png\)
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
 <!-- Github Markdown -->
