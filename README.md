@@ -107,6 +107,7 @@ Use the below syntax to create links.
 ## Images
 
 To add an image, add an exclamation mark (!), followed by alt text in brackets, and the URL to the image in parentheses. You can optionally add a title in quotation marks after the URL.
+
 `
 ![Markdown Logo](https://markdown-here.com/img/icon256.png "Title")
 `
