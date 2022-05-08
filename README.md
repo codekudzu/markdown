@@ -40,23 +40,27 @@ Enclose the text either in double asterisks (**) or double underscores (__) to m
 
 ### Example:
 
-| Syntax                         | Output                   |
-| ------------------------------ | ------------------------ |
-| \*\*This text\*\* is strong     | **This text** is strong  |
-| \_\_This text\_\_ is strong    | __This text__ is strong  |
+| Syntax                         | Output                    |
+| ------------------------------ | ------------------------- |
+| \*\*This text\*\* is strong    | **This text** is strong   |
+| \_\_This text\_\_ is strong    | __This text__ is strong   |
 
 <!-- Strikethrough -->
 ## Strikethrough
 Enclose the text in double tilde (~~) to strikethrough the text.
 
-\~\~This text\~\~ is strikethrough
+### Example:
 
-~~This text~~ is strikethrough
+| Syntax                                | Output                           |
+| ------------------------------------- | -------------------------------- |
+| \~\~This text\~\~ is strikethrough    | ~~This text~~ is strikethrough   |
 
 <!-- Horizontal Rule -->
+## Horizontal Rule
+
+Use either three hyphens (---) or three underscores (___) to generate a horizontal rule.
 
 ---
-
 ___
 
 <!-- Blockquote -->
