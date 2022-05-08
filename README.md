@@ -34,25 +34,16 @@ Enclose the text either in asterisks (*) or underscores (_) to italicize the tex
 | \*This  text\* is italic   | *This  text* is italic |
 | \_This text\_ is italic    | _This text_ is italic  |
 
-\*This  text\* is italic
-
-*This  text* is italic 
-
-\_This text\_ is italic
-
-_This text_ is italic
-
 <!-- Strong -->
 ## Strong / Bold
 Enclose the text either in double asterisks (**) or double underscores (__) to make the text bold.
 
-\*\*This text\\* is strong
+### Example:
 
-**This text** is strong
-
-\_\_This text\_\_ is strong
-
-__This text__ is strong
+| Syntax                         | Output                   |
+| ------------------------------ | ------------------------ |
+| \*\*This text\\* is strong     | **This text** is strong  |
+| \_\_This text\_\_ is strong    | __This text__ is strong  |
 
 <!-- Strikethrough -->
 ## Strikethrough
