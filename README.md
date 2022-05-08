@@ -22,20 +22,36 @@ To add any heading from H1 through H6, use the below markdown syntax:
 \###### Heading 6
 ###### Heading 6
 
-
+# Emphasis
 <!-- Italics -->
-*This  text* is italic
+## Italics
+Enclose the text either in asterisks (*) or underscores (_) to italicize the text.
+\*This  text\* is italic
 
-\*This  text\* is italic 
+*This  text* is italic 
+
+\_This text\_ is italic
 
 _This text_ is italic
 
 <!-- Strong -->
+## Strong / Bold
+Enclose the text either in double asterisks (**) or double underscores (__) to make the text bold.
+
+\*\*This text\\* is strong
+
 **This text** is strong
+
+\_\_This text\_\_ is strong
 
 __This text__ is strong
 
 <!-- Strikethrough -->
+## Strikethrough
+Enclose the text in double tilde (~~) to strikethrough the text.
+
+\~\~This text\~\~ is strikethrough
+
 ~~This text~~ is strikethrough
 
 <!-- Horizontal Rule -->
