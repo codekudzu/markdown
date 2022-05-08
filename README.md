@@ -79,9 +79,9 @@ Use the below syntax to create links.
 
 [Google](https://www.google.com)
 
-```
+`
 [Google](https://www.google.com "Link Title")
-```
+`
 [Google](https://www.google.com "Google Search Engine")
 
 ## Lists
