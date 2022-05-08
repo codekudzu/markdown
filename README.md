@@ -26,6 +26,7 @@ To add any heading from H1 through H6, use the below markdown syntax:
 <!-- Italics -->
 ## Italics
 Enclose the text either in asterisks (*) or underscores (_) to italicize the text.
+
 \*This  text\* is italic
 
 *This  text* is italic 
