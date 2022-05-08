@@ -64,12 +64,22 @@ Use either three hyphens (---) or three underscores (___) to generate a horizont
 ___
 
 <!-- Blockquote -->
+## Blockquote
+
+Start a paragraph with \> to show the text as blockquote.
 > This is a quote
 
 <!-- Links -->
-[Traversy Media](http://www.traversymedia.com)
+## Links
+Use the below syntax to create links.
 
-[Traversy Media](http://www.traversymedia.com "Traversy Media")
+\[Google\](https://www.google.com)
+
+[Google](https://www.google.com)
+
+\[Google\](https://www.google.com "Link Title")
+
+[Google](https://www.google.com "Google Search Engine")
 
 <!-- Unordered List -->
 * Item 1
