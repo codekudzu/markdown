@@ -73,12 +73,15 @@ Start a paragraph with \> to show the text as blockquote.
 ## Links
 Use the below syntax to create links.
 
-\[Google\](https://www.google.com)
+```
+[Google](https://www.google.com)
+```
 
 [Google](https://www.google.com)
 
-\[Google\](https://www.google.com "Link Title")
-
+```
+[Google](https://www.google.com "Link Title")
+```
 [Google](https://www.google.com "Google Search Engine")
 
 ## Lists
@@ -101,8 +104,12 @@ Use the below syntax to create links.
 
 <!-- Images -->
 ## Images
-\!\[Markdown Logo\]\(https://markdown-here.com/img/icon256.png\)
-![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+To add an image, add an exclamation mark (!), followed by alt text in brackets, and the URL to the image in parentheses. You can optionally add a title in quotation marks after the URL.
+```
+![Markdown Logo](https://markdown-here.com/img/icon256.png "Title")
+```
+![Markdown Logo](https://markdown-here.com/img/icon256.png "Icon")
 
 <!-- Github Markdown -->
 
