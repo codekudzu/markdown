@@ -42,7 +42,7 @@ Enclose the text either in double asterisks (**) or double underscores (__) to m
 
 | Syntax                         | Output                   |
 | ------------------------------ | ------------------------ |
-| \*\*This text\\* is strong     | **This text** is strong  |
+| \*\*This text\*\* is strong     | **This text** is strong  |
 | \_\_This text\_\_ is strong    | __This text__ is strong  |
 
 <!-- Strikethrough -->
