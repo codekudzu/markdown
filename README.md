@@ -27,6 +27,13 @@ To add any heading from H1 through H6, use the below markdown syntax:
 ## Italics
 Enclose the text either in asterisks (*) or underscores (_) to italicize the text.
 
+### Example:
+
+| Syntax                     | Output                 |
+| -------------------------- | ---------------------- |
+| \*This  text\* is italic   | *This  text* is italic |
+| \_This text\_ is italic    | _This text_ is italic  |
+
 \*This  text\* is italic
 
 *This  text* is italic 
