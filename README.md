@@ -88,6 +88,8 @@ Use the below syntax to create links.
 ## Lists
 <!-- Unordered List -->
 ### Unordered List
+To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.
+
 * Item 1
 * Item 2
 * Item 3
@@ -96,11 +98,15 @@ Use the below syntax to create links.
 
 <!-- Ordered List -->
 ### Ordered List
+To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.
+
 1. Item 1
 1. Item 2
 1. Item 3
 
 <!-- Inline Code Block -->
+## Code
+To denote a word or phrase as code, enclose it in backticks (`).
 `<p>This is a paragraph</p>`
 
 <!-- Images -->
@@ -115,7 +121,6 @@ To add an image, add an exclamation mark (!), followed by alt text in brackets, 
 ![Markdown Logo](https://markdown-here.com/img/icon256.png "Icon")
 
 <!-- Github Markdown -->
-
 <!-- Code Blocks -->
 ```bash
   npm install
