@@ -106,7 +106,7 @@ To create an ordered list, add line items with numbers followed by periods. The 
 
 <!-- Inline Code Block -->
 ## Code
-To denote a word or phrase as code, enclose it in backticks (```).
+To denote a word or phrase as code, enclose it in backticks (\`).
 
 `<p>This is a paragraph</p>`
 
